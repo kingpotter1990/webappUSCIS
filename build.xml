@@ -495,7 +495,7 @@
   remove this web application from service.
 
   NOTE:  This is the logical opposite of the "install" target.
-
+    AHA
 -->
 
   <target name="remove"
